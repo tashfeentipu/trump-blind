@@ -1,0 +1,25 @@
+.Cards {
+  height: 200px;
+  width: 100%;
+}
+
+.CardHolder {
+  display: grid;
+}
+
+.UpperContainer {
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: center;
+}
+
+.MiddleContainer {
+  display: grid;
+  grid-template-columns: 250px 900px 250px;
+}
+
+.LowerContainer {
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: center;
+}

@@ -1,0 +1,15 @@
+.CardContainerColumns {
+  display: grid;
+  grid-template-columns: 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px;
+}
+
+.CardItem {
+  padding: 20px;
+  height: 150px;
+  width: 150px;
+}
+
+.CardContainerRows {
+  display: grid;
+  grid-template-rows: 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px 60px;
+}
